@@ -99,6 +99,10 @@
 * 🔥 Delete leftover celery file. PR [#727](https://github.com/tiangolo/full-stack-fastapi-template/pull/727) by [@dr-neptune](https://github.com/dr-neptune).
 * ⚙️ Update pre-commit config with Prettier and ESLint. PR [#714](https://github.com/tiangolo/full-stack-fastapi-template/pull/714) by [@alejsdev](https://github.com/alejsdev).
 
+## 0.7.0
+
+* ✨ Using [Rye](https://rye.astral.sh/) instead of Poetry.
+
 ## 0.6.0
 
 Latest FastAPI, Pydantic, SQLModel 🚀
